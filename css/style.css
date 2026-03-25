@@ -1,0 +1,8 @@
+.box1 {
+    margin: 5 auto;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
